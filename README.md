@@ -32,6 +32,8 @@ This removes the service and binary, and asks before removing the install folder
 
 ## Supported Distros
 
+This script supports **x86_64 (amd64) only**. ARM and other architectures are not supported.
+
 | Distro | Status |
 |---|---|
 | Fedora | Tested, works |
